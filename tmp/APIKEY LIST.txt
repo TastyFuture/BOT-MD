@@ -1,0 +1,11 @@
+APIKEY LIST:
+1.)  api.xteam.xyz               = 'tastyfuture': 77ac2c69a95ea4d7 {100 limit/account (belum digunakan)/*READY*}
+2.)  api.xteam.xyz               = 'litesfire': 87e3ec4d38c18765 {100 limit/account (sudah digunakan)/*READY*}
+3.)  api.xteam.xyz               = 'STARS': 4f3140e0b2d9d976 {100 limit/account (sudah digunakan)/*HABIS*}
+4.)  danzzapi.xyz                = 'STARS': 92u1a7pr8s {100 limit/day (sudah digunakan)/*FITUR ERROR*}
+5.)  hadi-api.cf                 = {*FREE APIKEY*}/NO LIMIT
+6.)  api.zeeoneofc.xyz           = 'STARS': LPGJZruR {100 limit/day (sudah digunakan)/*WEBDOWN*}
+7.)  alphabot-api.herokuapp.com  = 'swads': m5GpQrIZ {100 limit/day (sudah digunakan)/*READY*}
+8.)  api.xteam.xyz               = 'Lucbot': d37372311698ed1d {Unknown limit (sudah digunakan)/*READY*}
+9.)  api.xteam.xyz               = 'Dahlah': 7415bc4287ad5ca8 {Unknown limit (sudah digunakan)/*READY*}
+10.) leyscoder-api.herokuapp.com = '': MIMINGANZ {Unknown limit (sudah digunakan)/*READY*}
